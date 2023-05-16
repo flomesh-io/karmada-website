@@ -88,6 +88,7 @@
           "items": [
             "version-v1.5/userguide/service/multi-cluster-service",
             "version-v1.5/userguide/service/multi-cluster-ingress",
+            "version-v1.5/userguide/service/working-with-eriecanal",
             "version-v1.5/userguide/service/working-with-istio-on-flat-network",
             "version-v1.5/userguide/service/working-with-istio-on-non-flat-network"
           ]
